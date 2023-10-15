@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi, I'm Amronn! <br/><a href="https://github.com/Amronn Smith"</a>, <a href="linkedin.com/in/amronn-smith/">Help Desk Specialist 
+<h1>Hi, I'm Amronn! <br/><a href="https://github.com/Amronn Smith"</a> <a href="linkedin.com/in/amronn-smith/">Help Desk Specialist 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
